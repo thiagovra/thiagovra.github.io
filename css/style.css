@@ -391,7 +391,7 @@ section{
     text-align: center;
 }
 
-.titulo h1{
+.titulo h2{
     font-size: 50px;
     font-weight: 200;
     text-transform: uppercase;
@@ -399,11 +399,11 @@ section{
     letter-spacing: 1px;
     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
     -webkit-font-smoothing: antialiased;
-    line-height:300px;
+    line-height:280px;
 
 }
 
-.titulo h1:hover{
+.titulo h2:hover{
     color: lightgoldenrodyellow;
 }
 
@@ -436,14 +436,15 @@ section{
     color: lightgoldenrodyellow;   
 }
 
-#contato h2{   
+#contato h3{   
+
     background: rgba(0, 0, 0, 0.3);
     border: 1px rgba(245, 245, 245, 0.2) solid;
     border-radius: 50px; 
     position: relative;
     color: rgb(255, 255, 255);
     font-size: 30px;
-    font-weight: 300;
+    font-weight: 200;
     letter-spacing: 1.5px;
     text-align: center;
     margin-top: 5%;
@@ -451,7 +452,7 @@ section{
     margin-right: 26%;
 }
 
-#contato h2:hover{
+#contato h3:hover{
     background: rgba(0, 0, 0, 0.7);
     border: 1px rgba(245, 245, 245, 0.5) solid;
     border-radius: 50px;
